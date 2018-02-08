@@ -1,0 +1,7 @@
+.product {
+    font-family: sans-serif;
+}
+
+.product.selected {
+    color: red;
+}
